@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  src: url(../font/Spartan-VariableFont_wght.ttf);
+  font-family: Spartan;
+}
+
+.footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 35vh;
+  width: 100%;
+}
+
+.footer-image {
+  width: 29.6vw;
+  height: 100%;
+}
+
+.footer-image img {
+  height: 100%;
+  width: 100%;
+}
+
+.footer-text-container {
+  display: flex;
+  font-family: Spartan;
+  max-width: 40.8%;
+  max-height: 100%;
+}
+
+.footer-text {
+  padding: 69px;
+}
+
+h2 {
+  font-size: 21px;
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+
+p {
+  margin-top: 15px;
+  line-height: 25px;
+  color: hsl(0, 0%, 63%);
+  font-size: 16.3px;
+  font-weight: 100;
+}

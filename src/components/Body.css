@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  src: url(../font/Spartan-VariableFont_wght.ttf);
+  font-family: Spartan;
+}
+
+.info-container {
+  display: flex;
+}
+
+.image-div {
+  position: relative;
+  height: 65vh;
+  width: 100vw;
+}
+
+.image {
+  height: 100%;
+  width: 100%;
+}
+
+.text-container {
+  font-family: Spartan;
+  display: flex;
+  text-align: center;
+  max-width: auto;
+  max-height: auto;
+  width: 68%;
+}
+
+.text-box {
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 14%;
+  padding-bottom: 0;
+}
+
+dt {
+  font-size: 50px;
+  line-height: 50px;
+  font-weight: 1000;
+  margin-bottom: 60px;
+}
+
+dd {
+  margin-bottom: 40px;
+  font-size: 16.3px;
+  line-height: 25px;
+  color: hsl(0, 0%, 63%);
+  height: 6.5vh;
+}
+
+.shop-now a {
+  text-decoration: none;
+  color: black;
+  margin-right: 50px;
+  font-size: 18px;
+  letter-spacing: 10px;
+}
+
+a:hover {
+  color: hsl(0, 0%, 63%);
+}
+
+.buttoms {
+  position: absolute;
+  left: 59.5%;
+  bottom: 35%;
+}
+
+button {
+  background: black;
+  border: none;
+  width: 5.4vw;
+  height: 83px;
+}
+
+button:hover {
+  background: hsl(0, 0%, 63%);
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 0;
+}
+
+/* Navbar */
+
+.nav {
+  position: absolute;
+  top: 7.1vh;
+  left: 3.2vw;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+ul li {
+  display: inline;
+  margin-left: 60px;
+}
+
+.navlinks a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.navlinks a:hover {
+  background-image: linear-gradient(white, white);
+  background-position: bottom center; /*Adjust the background-position to move the line*/
+  background-size: 50% 2px; /*Adjust the background size to control length and height*/
+  background-repeat: no-repeat;
+  padding-bottom: 8px;
+}
+
+.logo spam {
+  font-size: 35px;
+  color: white;
+}
+
+@media (max-width: 1824px) {
+  dt {
+    font-size: 44px;
+    font-weight: 1000;
+    margin-bottom: 30px;
+  }
+  dd {
+    font-size: 15px;
+  }
+  .text-box {
+    position: relative;
+  }
+  .shop-now {
+    position: absolute;
+    top: 82.6%;
+    left: 41%;
+  }
+}
