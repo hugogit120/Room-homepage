@@ -10,7 +10,7 @@ class Body extends Component {
     this.state = {
       information: [
         {
-          image: image1,
+          image: image2,
           title: "Discover innovative ways to decorate",
           text: `We provide unmatched quality, comfort, and style for property owners across the country. 
                     Our experts combine form andnfunction in bringing your vision to life. Create a room in your 
