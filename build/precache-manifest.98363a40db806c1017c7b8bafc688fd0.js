@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5b8f5f7be43d20345040d6116de5ca6",
+    "revision": "acf3f928312c703351260f1f8d17b927",
     "url": "/room-homepage/index.html"
   },
   {
-    "revision": "e53c4165f9c8b2ca2a91",
+    "revision": "1a391afb1a26695674ac",
     "url": "/room-homepage/static/css/main.2aaf2d17.chunk.css"
   },
   {
-    "revision": "531d95ac8a21147112b5",
-    "url": "/room-homepage/static/js/2.07b92dc1.chunk.js"
+    "revision": "168860ba882c431f258b",
+    "url": "/room-homepage/static/js/2.71b5643a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/room-homepage/static/js/2.07b92dc1.chunk.js.LICENSE.txt"
+    "url": "/room-homepage/static/js/2.71b5643a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e53c4165f9c8b2ca2a91",
-    "url": "/room-homepage/static/js/main.90268371.chunk.js"
+    "revision": "1a391afb1a26695674ac",
+    "url": "/room-homepage/static/js/main.ffd5b5bf.chunk.js"
   },
   {
     "revision": "d36b95446a4f1151ce99",
