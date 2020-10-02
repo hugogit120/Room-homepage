@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Room-homepage1/static/css/main.b7502717.chunk.css",
+    "main.js": "/Room-homepage1/static/js/main.e272f1b7.chunk.js",
+    "main.js.map": "/Room-homepage1/static/js/main.e272f1b7.chunk.js.map",
+    "runtime-main.js": "/Room-homepage1/static/js/runtime-main.7974a34d.js",
+    "runtime-main.js.map": "/Room-homepage1/static/js/runtime-main.7974a34d.js.map",
+    "static/js/2.07b92dc1.chunk.js": "/Room-homepage1/static/js/2.07b92dc1.chunk.js",
+    "static/js/2.07b92dc1.chunk.js.map": "/Room-homepage1/static/js/2.07b92dc1.chunk.js.map",
+    "index.html": "/Room-homepage1/index.html",
+    "precache-manifest.e5fe958eff064a29d0e4d8b08f2eabaf.js": "/Room-homepage1/precache-manifest.e5fe958eff064a29d0e4d8b08f2eabaf.js",
+    "service-worker.js": "/Room-homepage1/service-worker.js",
+    "static/css/main.b7502717.chunk.css.map": "/Room-homepage1/static/css/main.b7502717.chunk.css.map",
+    "static/js/2.07b92dc1.chunk.js.LICENSE.txt": "/Room-homepage1/static/js/2.07b92dc1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Room-homepage1/static/media/Spartan-VariableFont_wght.e9fb5ac5.ttf",
+    "static/media/desktop-image-hero-1.jpg": "/Room-homepage1/static/media/desktop-image-hero-1.01394643.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/Room-homepage1/static/media/desktop-image-hero-2.03660ebe.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/Room-homepage1/static/media/desktop-image-hero-3.63998c1c.jpg",
+    "static/media/image-about-dark.jpg": "/Room-homepage1/static/media/image-about-dark.fa292a67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7974a34d.js",
+    "static/js/2.07b92dc1.chunk.js",
+    "static/css/main.b7502717.chunk.css",
+    "static/js/main.e272f1b7.chunk.js"
+  ]
+}
