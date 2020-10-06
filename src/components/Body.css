@@ -253,3 +253,15 @@ ul li {
     margin-top: 41% !important;
   }
 }
+
+@media (max-width: 360px) {
+  .text-container {
+    margin-bottom: 72%;
+  }
+  .shop-now {
+    margin-top: 81% !important;
+  }
+  .shop-now a {
+    font-size: 14px;
+  }
+}
