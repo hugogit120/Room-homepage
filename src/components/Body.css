@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  -webkit-tap-highlight-color: transparent;
 }
 
 @font-face {
@@ -23,12 +24,35 @@
   width: 100%;
 }
 
+.main_list {
+  display: flex;
+}
+
+.hamburguer {
+  background-color: transparent;
+  background-image: url("../images/icon-hamburger.svg");
+  background-repeat: no-repeat;
+  width: 3vh;
+  height: 15px;
+  border: 0;
+  cursor: pointer;
+}
+
+.cross {
+  background-color: transparent;
+  background-image: url("../images/icon-close.svg");
+  background-repeat: no-repeat;
+  width: 3vh;
+  height: 15px;
+  border: 0;
+  color: red;
+  font-size: 20px;
+  cursor: pointer;
+}
+
 .text-container {
   font-family: Spartan;
   display: flex;
-  text-align: center;
-  max-width: auto;
-  max-height: auto;
   width: 68%;
 }
 
@@ -74,14 +98,14 @@ a:hover {
   bottom: 35%;
 }
 
-button {
+.arrow-button {
   background: black;
   border: none;
   width: 5.4vw;
   height: 83px;
 }
 
-button:hover {
+.arrow-button:hover {
   background: hsl(0, 0%, 63%);
   cursor: pointer;
 }
@@ -94,14 +118,14 @@ button:focus {
 
 .nav {
   position: absolute;
-  top: 7.1vh;
+  top: 6.1vh;
   left: 3.2vw;
 }
 
-.container {
+/* .container {
   display: flex;
   align-items: center;
-}
+} */
 
 ul li {
   display: inline;
@@ -144,5 +168,88 @@ ul li {
     position: absolute;
     top: 82.6%;
     left: 41%;
+  }
+}
+
+@media (max-width: 815px) {
+  .info-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .image-div {
+    height: 46vh;
+  }
+  .nav {
+    height: 40%;
+  }
+  .main_list {
+    display: inline;
+  }
+  .logoAndHamburguer {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  #hamOrCrossDiv {
+    margin-right: 14vh;
+  }
+  .navlinks {
+    display: none;
+  }
+
+  .navlinks-mobile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    background: white;
+    left: 0;
+    right: 0;
+    top: 0vh;
+    height: 14%;
+    padding: 0 20px;
+  }
+
+  .navlinks-mobile li {
+    margin-left: 0;
+  }
+
+  .navlinks-mobile li a {
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .buttoms {
+    position: absolute;
+    display: flex;
+    left: 70.4%;
+    bottom: 54%;
+  }
+  .arrow-button {
+    background: black;
+    border: none;
+    width: 14.8vw;
+    height: 7vh;
+  }
+  .arrow-button:focus {
+    background: hsl(0, 0%, 63%);
+  }
+  .text-container {
+    width: 82%;
+    margin-bottom: 44%;
+  }
+  .text-box {
+    margin-top: 60px;
+    padding: 0;
+  }
+  .text-box dt {
+    font-size: 28px;
+    line-height: 31px;
+  }
+  .text-box dd {
+    font-size: 12.5px;
+  }
+  .shop-now {
+    left: 0;
+    margin-top: 41% !important;
   }
 }
