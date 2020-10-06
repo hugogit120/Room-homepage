@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/room-homepage/static/css/main.2aaf2d17.chunk.css",
-    "main.js": "/room-homepage/static/js/main.90268371.chunk.js",
-    "main.js.map": "/room-homepage/static/js/main.90268371.chunk.js.map",
+    "main.css": "/room-homepage/static/css/main.134bbad7.chunk.css",
+    "main.js": "/room-homepage/static/js/main.2612afe3.chunk.js",
+    "main.js.map": "/room-homepage/static/js/main.2612afe3.chunk.js.map",
     "runtime-main.js": "/room-homepage/static/js/runtime-main.08e0c022.js",
     "runtime-main.js.map": "/room-homepage/static/js/runtime-main.08e0c022.js.map",
-    "static/js/2.07b92dc1.chunk.js": "/room-homepage/static/js/2.07b92dc1.chunk.js",
-    "static/js/2.07b92dc1.chunk.js.map": "/room-homepage/static/js/2.07b92dc1.chunk.js.map",
+    "static/js/2.59f4c7fb.chunk.js": "/room-homepage/static/js/2.59f4c7fb.chunk.js",
+    "static/js/2.59f4c7fb.chunk.js.map": "/room-homepage/static/js/2.59f4c7fb.chunk.js.map",
     "index.html": "/room-homepage/index.html",
-    "precache-manifest.92b16b1a04f860737e0bed7676877348.js": "/room-homepage/precache-manifest.92b16b1a04f860737e0bed7676877348.js",
+    "precache-manifest.459379b2737db933c27804bc91313d37.js": "/room-homepage/precache-manifest.459379b2737db933c27804bc91313d37.js",
     "service-worker.js": "/room-homepage/service-worker.js",
-    "static/css/main.2aaf2d17.chunk.css.map": "/room-homepage/static/css/main.2aaf2d17.chunk.css.map",
-    "static/js/2.07b92dc1.chunk.js.LICENSE.txt": "/room-homepage/static/js/2.07b92dc1.chunk.js.LICENSE.txt",
+    "static/css/main.134bbad7.chunk.css.map": "/room-homepage/static/css/main.134bbad7.chunk.css.map",
+    "static/js/2.59f4c7fb.chunk.js.LICENSE.txt": "/room-homepage/static/js/2.59f4c7fb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/room-homepage/static/media/Spartan-VariableFont_wght.e9fb5ac5.ttf",
     "static/media/desktop-image-hero-1.jpg": "/room-homepage/static/media/desktop-image-hero-1.01394643.jpg",
     "static/media/desktop-image-hero-2.jpg": "/room-homepage/static/media/desktop-image-hero-2.03660ebe.jpg",
     "static/media/desktop-image-hero-3.jpg": "/room-homepage/static/media/desktop-image-hero-3.63998c1c.jpg",
-    "static/media/image-about-dark.jpg": "/room-homepage/static/media/image-about-dark.fa292a67.jpg"
+    "static/media/Body.css": "/room-homepage/static/media/icon-hamburger.0b39db49.svg",
+    "static/media/image-about-dark.jpg": "/room-homepage/static/media/image-about-dark.fa292a67.jpg",
+    "static/media/logo.svg": "/room-homepage/static/media/logo.11c1e8e6.svg",
+    "static/media/mobile-image-hero-1.jpg": "/room-homepage/static/media/mobile-image-hero-1.6ee5d72d.jpg",
+    "static/media/mobile-image-hero-2.jpg": "/room-homepage/static/media/mobile-image-hero-2.d77b8410.jpg",
+    "static/media/mobile-image-hero-3.jpg": "/room-homepage/static/media/mobile-image-hero-3.39ee9deb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.08e0c022.js",
-    "static/js/2.07b92dc1.chunk.js",
-    "static/css/main.2aaf2d17.chunk.css",
-    "static/js/main.90268371.chunk.js"
+    "static/js/2.59f4c7fb.chunk.js",
+    "static/css/main.134bbad7.chunk.css",
+    "static/js/main.2612afe3.chunk.js"
   ]
 }
