@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/room-homepage/static/css/main.134bbad7.chunk.css",
+    "main.css": "/room-homepage/static/css/main.851a7cb4.chunk.css",
     "main.js": "/room-homepage/static/js/main.2612afe3.chunk.js",
     "main.js.map": "/room-homepage/static/js/main.2612afe3.chunk.js.map",
     "runtime-main.js": "/room-homepage/static/js/runtime-main.08e0c022.js",
@@ -8,9 +8,9 @@
     "static/js/2.59f4c7fb.chunk.js": "/room-homepage/static/js/2.59f4c7fb.chunk.js",
     "static/js/2.59f4c7fb.chunk.js.map": "/room-homepage/static/js/2.59f4c7fb.chunk.js.map",
     "index.html": "/room-homepage/index.html",
-    "precache-manifest.459379b2737db933c27804bc91313d37.js": "/room-homepage/precache-manifest.459379b2737db933c27804bc91313d37.js",
+    "precache-manifest.e56dfa9cd0d06131e10f23aeb2520dba.js": "/room-homepage/precache-manifest.e56dfa9cd0d06131e10f23aeb2520dba.js",
     "service-worker.js": "/room-homepage/service-worker.js",
-    "static/css/main.134bbad7.chunk.css.map": "/room-homepage/static/css/main.134bbad7.chunk.css.map",
+    "static/css/main.851a7cb4.chunk.css.map": "/room-homepage/static/css/main.851a7cb4.chunk.css.map",
     "static/js/2.59f4c7fb.chunk.js.LICENSE.txt": "/room-homepage/static/js/2.59f4c7fb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/room-homepage/static/media/Spartan-VariableFont_wght.e9fb5ac5.ttf",
     "static/media/desktop-image-hero-1.jpg": "/room-homepage/static/media/desktop-image-hero-1.01394643.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.08e0c022.js",
     "static/js/2.59f4c7fb.chunk.js",
-    "static/css/main.134bbad7.chunk.css",
+    "static/css/main.851a7cb4.chunk.css",
     "static/js/main.2612afe3.chunk.js"
   ]
 }
